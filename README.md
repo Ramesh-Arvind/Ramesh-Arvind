@@ -1,13 +1,24 @@
-### Hi there 👋
+# Hello, I'm Ramesh Arvind Naagarajan 👋
 
-<!--
-**Ramesh-Arvind/Ramesh-Arvind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Forecasting, Time Series Analysis
+I'm a passionate ML developer based in Germany. Welcome to my GitHub profile!
+- 🔭 I’m currently working on Forecasting and Time Series Analysis
 - 🌱 I’m currently learning Masters in Digital Transformation
-- 👯 I’m looking to collaborate on Data science and Machine Learning Community
-- 📫 How to reach me: ... https://www.linkedin.com/in/ramesh-naagarajan
-- 😄 Pronouns: ...He/ Him
--->
+- 👯 I’m looking to collaborate on interesting projects
+- 😄 Pronouns: He/ Him
+
+## Technologies I Love
+
+- 💻 Artificial Intelligence, Complex Data
+- 🌐 Azure, GCP
+- 📱  Kafka
+- 🛠️ Github
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramesh-Arvind&show_icons=true&theme=dark)
+ 
+## Get in Touch
+
+- 📧 Email: rameshln.96@gmail.com
+- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/ramesh-naagarajan)
+- 🌐 Website: [Website](https://ramesh-arvind.github.io/ramesh.github.io/)
