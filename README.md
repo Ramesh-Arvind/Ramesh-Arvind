@@ -21,4 +21,4 @@ I'm a passionate ML developer based in Germany. Welcome to my GitHub profile!
 
 - 📧 Email: rameshln.96@gmail.com
 - 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/ramesh-naagarajan)
-- 🌐 Website: [Website](https://ramesh-arvind.github.io/ramesh.github.io/)
+- 🌐 Website: [Website](https://ramesh-arvind.github.io/ramesh-arvind.github.io/)
